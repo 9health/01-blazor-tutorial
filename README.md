@@ -38,10 +38,18 @@ info: Microsoft.Hosting.Lifetime[0]
       Content root path: C:\Users\ninehealth\work\9Health\dotnet\10-blazor-tutorial\BlazorApp\
 ```
 ## Screenshots
+### On PC
 
 ![Blazor App Home page](images/Home_page_20220908.png)
 
 ![Blazor App Counter page](images/Counter_page_20220908.png)
+
+### On mobile
+
+![Mobile view of Home page](images/Mobile_Home_Page_20220908.png)
+
+![Mobile view of Counter page](images/Mobile_Counter_Page_20220908.png)
+
 
 # Other Notes
 
