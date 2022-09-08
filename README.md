@@ -19,6 +19,7 @@ dotnet watch
 ```
 
 # Expected output
+## Terminal
 ```
 dotnet watch 🔥 Hot reload enabled. For a list of supported edits, see https://aka.ms/dotnet/hot-reload.
   💡 Press "Ctrl + R" to restart.
@@ -36,6 +37,11 @@ info: Microsoft.Hosting.Lifetime[0]
 info: Microsoft.Hosting.Lifetime[0]
       Content root path: C:\Users\ninehealth\work\9Health\dotnet\10-blazor-tutorial\BlazorApp\
 ```
+## Screenshots
+
+![Blazor App Home page](images/Home_page_20220908.png)
+
+![Blazor App Counter page](images/Counter_page_20220908.png)
 
 # Other Notes
 
