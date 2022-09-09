@@ -11,12 +11,13 @@ Doing Blazar tutorial
 - .NET 6.0
 - [Git Client](https://git-scm.com/downloads) 
 
-# How to run
-
+# How to view the website
+- Launch web server
 ```
 cd BlazorApp
 dotnet watch
 ```
+- Go to website address at `http://localhost:80`
 
 # Expected output
 ## Terminal
